@@ -5,3 +5,5 @@ Puis une ligne pour le pull
 Test de merge des branches
 TEst de merge des branches 2.
 Conflit "Bonjour world"
+"Bonjour le monde va bien?"
+Résolution.
